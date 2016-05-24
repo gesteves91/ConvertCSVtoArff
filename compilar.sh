@@ -1,2 +1,3 @@
 #!/bin/bash
-javac AllGenes.java
+javac -cp weka.jar Cluster.java
+#javac Cluster.java

@@ -1,2 +1,2 @@
 #!/bin/bash
-java AllGenes
+java -cp .:weka.jar Cluster
