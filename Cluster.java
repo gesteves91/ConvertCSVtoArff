@@ -33,7 +33,7 @@ public class Cluster {
 		
 		try{
 			w = new BufferedWriter(new OutputStreamWriter(
-					new FileOutputStream("clusters.txt"), "utf-8"));
+					new FileOutputStream("clusters"), "utf-8"));
 			SimpleKMeans kmeans = new SimpleKMeans();
 
 			kmeans.setSeed(10);
@@ -50,20 +50,20 @@ public class Cluster {
 			// This array returns the cluster number (starting with 0) for each instance
 			// The array has as many elements as the number of instances
 			int[] assignments = kmeans.getAssignments();
-			
+
 			instances = new int[assignments.length];
 			clusters = new int[assignments.length];
-			
+
 			for(int i = 0; i < maxClusters.length; i++)
 				maxClusters[i] = i;
-			
+
 			for(int i = 0; i < assignments.length; i++){
 				instances[i] = i;
 				clusters[i] = assignments[i];
 			}
-			
+
 			int total = 0;
-			
+
 			for(int i = 0; i < maxClusters.length; i++){
 				w.write("Cluster " + i);
 				w.write(System.getProperty("line.separator"));
@@ -79,24 +79,9 @@ public class Cluster {
 				w.write(System.getProperty("line.separator"));	
 				w.write(System.getProperty("line.separator"));	
 			}
-			
-			//for(int i = 0; i < assignments.length; i++){
-				//w.write("Instance " + i + " -> Cluster " + assignments[i]);
-				//w.write(System.getProperty("line.separator"));
-			//}
-				
-				
-			
-			//int i=0;
-			//for(int clusterNum : assignments) {
-				//w.write("Instance %d -> Cluster %d", i, clusterNum);
-				//w.write(System.getProperty("line.separator"));
-				//System.out.printf("Instance %d -> Cluster %d \n", i, clusterNum);
-				//i++;
-			//}
-			
-		System.out.println("This shit is done!!!");
-			
+
+			System.out.println("The KMeans has worked properly!!!");
+
 		} catch (IOException ex) {
 			// report
 		} finally {
