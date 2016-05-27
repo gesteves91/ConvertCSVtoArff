@@ -1,829 +1,829 @@
-Cluster 0
-Instance 62
-Instance 65
-Instance 78
-Instance 83
-Instance 108
-Instance 126
-Instance 155
-Instance 202
-Instance 204
-Instance 304
-Instance 445
-Instance 455
-Instance 493
-Instance 546
-Instance 553
-Instance 563
-Instance 581
-Instance 621
-Instance 631
-Instance 646
-Instance 667
-Instance 672
-Instance 694
-Instance 712
-Instance 716
-Instance 717
-Instance 723
-Instance 732
-Instance 734
-Instance 737
-Instance 745
-Instance 748
-Instance 761
-Instance 764
-Instance 766
-Instance 771
-Instance 786
-Instance 795
-Instance 797
-Instance 798
+Clusters -> 0
+Instances -> 62
+Instances -> 65
+Instances -> 78
+Instances -> 83
+Instances -> 108
+Instances -> 126
+Instances -> 155
+Instances -> 202
+Instances -> 204
+Instances -> 304
+Instances -> 445
+Instances -> 455
+Instances -> 493
+Instances -> 546
+Instances -> 553
+Instances -> 563
+Instances -> 581
+Instances -> 621
+Instances -> 631
+Instances -> 646
+Instances -> 667
+Instances -> 672
+Instances -> 694
+Instances -> 712
+Instances -> 716
+Instances -> 717
+Instances -> 723
+Instances -> 732
+Instances -> 734
+Instances -> 737
+Instances -> 745
+Instances -> 748
+Instances -> 761
+Instances -> 764
+Instances -> 766
+Instances -> 771
+Instances -> 786
+Instances -> 795
+Instances -> 797
+Instances -> 798
 Total = 40
 
-Cluster 1
-Instance 53
-Instance 79
-Instance 102
-Instance 109
-Instance 125
-Instance 130
-Instance 160
-Instance 163
-Instance 197
-Instance 219
-Instance 229
-Instance 233
-Instance 279
-Instance 293
-Instance 308
-Instance 312
-Instance 319
-Instance 328
-Instance 340
-Instance 355
-Instance 357
-Instance 377
-Instance 387
-Instance 409
-Instance 413
-Instance 427
-Instance 433
-Instance 456
-Instance 470
-Instance 473
-Instance 476
-Instance 478
-Instance 485
-Instance 488
-Instance 504
-Instance 508
-Instance 509
-Instance 519
-Instance 522
-Instance 536
-Instance 537
-Instance 538
-Instance 554
-Instance 555
-Instance 556
-Instance 559
-Instance 561
-Instance 577
-Instance 579
-Instance 585
-Instance 589
-Instance 592
-Instance 593
-Instance 612
-Instance 618
-Instance 638
-Instance 648
-Instance 651
-Instance 652
-Instance 653
-Instance 654
-Instance 659
-Instance 675
-Instance 680
-Instance 689
-Instance 695
-Instance 696
-Instance 699
-Instance 701
-Instance 703
-Instance 704
-Instance 746
-Instance 769
-Instance 776
-Instance 777
-Instance 782
-Instance 789
-Instance 791
+Clusters -> 1
+Instances -> 53
+Instances -> 79
+Instances -> 102
+Instances -> 109
+Instances -> 125
+Instances -> 130
+Instances -> 160
+Instances -> 163
+Instances -> 197
+Instances -> 219
+Instances -> 229
+Instances -> 233
+Instances -> 279
+Instances -> 293
+Instances -> 308
+Instances -> 312
+Instances -> 319
+Instances -> 328
+Instances -> 340
+Instances -> 355
+Instances -> 357
+Instances -> 377
+Instances -> 387
+Instances -> 409
+Instances -> 413
+Instances -> 427
+Instances -> 433
+Instances -> 456
+Instances -> 470
+Instances -> 473
+Instances -> 476
+Instances -> 478
+Instances -> 485
+Instances -> 488
+Instances -> 504
+Instances -> 508
+Instances -> 509
+Instances -> 519
+Instances -> 522
+Instances -> 536
+Instances -> 537
+Instances -> 538
+Instances -> 554
+Instances -> 555
+Instances -> 556
+Instances -> 559
+Instances -> 561
+Instances -> 577
+Instances -> 579
+Instances -> 585
+Instances -> 589
+Instances -> 592
+Instances -> 593
+Instances -> 612
+Instances -> 618
+Instances -> 638
+Instances -> 648
+Instances -> 651
+Instances -> 652
+Instances -> 653
+Instances -> 654
+Instances -> 659
+Instances -> 675
+Instances -> 680
+Instances -> 689
+Instances -> 695
+Instances -> 696
+Instances -> 699
+Instances -> 701
+Instances -> 703
+Instances -> 704
+Instances -> 746
+Instances -> 769
+Instances -> 776
+Instances -> 777
+Instances -> 782
+Instances -> 789
+Instances -> 791
 Total = 78
 
-Cluster 2
-Instance 3
-Instance 4
-Instance 5
-Instance 8
-Instance 9
-Instance 10
-Instance 12
-Instance 14
-Instance 15
-Instance 19
-Instance 22
-Instance 23
-Instance 25
-Instance 28
-Instance 29
-Instance 33
-Instance 34
-Instance 35
-Instance 37
-Instance 38
-Instance 40
-Instance 42
-Instance 43
-Instance 44
-Instance 46
-Instance 50
-Instance 51
-Instance 56
-Instance 60
-Instance 70
-Instance 71
-Instance 72
-Instance 75
-Instance 76
-Instance 77
-Instance 81
-Instance 82
-Instance 86
-Instance 87
-Instance 92
-Instance 100
-Instance 104
-Instance 115
-Instance 129
-Instance 136
-Instance 144
-Instance 150
-Instance 152
-Instance 156
-Instance 158
-Instance 176
-Instance 187
-Instance 191
-Instance 192
-Instance 208
-Instance 215
-Instance 221
-Instance 240
-Instance 252
-Instance 256
-Instance 258
-Instance 268
-Instance 269
-Instance 281
-Instance 288
-Instance 296
-Instance 298
-Instance 303
-Instance 305
-Instance 306
-Instance 310
-Instance 311
-Instance 316
-Instance 317
-Instance 323
-Instance 329
-Instance 331
-Instance 334
-Instance 335
-Instance 338
-Instance 339
-Instance 342
-Instance 346
-Instance 351
-Instance 353
-Instance 367
-Instance 369
-Instance 372
-Instance 375
-Instance 378
-Instance 382
-Instance 385
-Instance 393
-Instance 395
-Instance 404
-Instance 425
-Instance 457
-Instance 462
-Instance 471
-Instance 484
-Instance 490
-Instance 511
-Instance 523
-Instance 588
-Instance 670
-Instance 705
-Instance 729
-Instance 736
-Instance 756
-Instance 778
-Instance 792
+Clusters -> 2
+Instances -> 3
+Instances -> 4
+Instances -> 5
+Instances -> 8
+Instances -> 9
+Instances -> 10
+Instances -> 12
+Instances -> 14
+Instances -> 15
+Instances -> 19
+Instances -> 22
+Instances -> 23
+Instances -> 25
+Instances -> 28
+Instances -> 29
+Instances -> 33
+Instances -> 34
+Instances -> 35
+Instances -> 37
+Instances -> 38
+Instances -> 40
+Instances -> 42
+Instances -> 43
+Instances -> 44
+Instances -> 46
+Instances -> 50
+Instances -> 51
+Instances -> 56
+Instances -> 60
+Instances -> 70
+Instances -> 71
+Instances -> 72
+Instances -> 75
+Instances -> 76
+Instances -> 77
+Instances -> 81
+Instances -> 82
+Instances -> 86
+Instances -> 87
+Instances -> 92
+Instances -> 100
+Instances -> 104
+Instances -> 115
+Instances -> 129
+Instances -> 136
+Instances -> 144
+Instances -> 150
+Instances -> 152
+Instances -> 156
+Instances -> 158
+Instances -> 176
+Instances -> 187
+Instances -> 191
+Instances -> 192
+Instances -> 208
+Instances -> 215
+Instances -> 221
+Instances -> 240
+Instances -> 252
+Instances -> 256
+Instances -> 258
+Instances -> 268
+Instances -> 269
+Instances -> 281
+Instances -> 288
+Instances -> 296
+Instances -> 298
+Instances -> 303
+Instances -> 305
+Instances -> 306
+Instances -> 310
+Instances -> 311
+Instances -> 316
+Instances -> 317
+Instances -> 323
+Instances -> 329
+Instances -> 331
+Instances -> 334
+Instances -> 335
+Instances -> 338
+Instances -> 339
+Instances -> 342
+Instances -> 346
+Instances -> 351
+Instances -> 353
+Instances -> 367
+Instances -> 369
+Instances -> 372
+Instances -> 375
+Instances -> 378
+Instances -> 382
+Instances -> 385
+Instances -> 393
+Instances -> 395
+Instances -> 404
+Instances -> 425
+Instances -> 457
+Instances -> 462
+Instances -> 471
+Instances -> 484
+Instances -> 490
+Instances -> 511
+Instances -> 523
+Instances -> 588
+Instances -> 670
+Instances -> 705
+Instances -> 729
+Instances -> 736
+Instances -> 756
+Instances -> 778
+Instances -> 792
 Total = 111
 
-Cluster 3
-Instance 58
-Instance 59
-Instance 74
-Instance 88
-Instance 89
-Instance 96
-Instance 113
-Instance 119
-Instance 122
-Instance 128
-Instance 138
-Instance 139
-Instance 149
-Instance 165
-Instance 167
-Instance 173
-Instance 181
-Instance 198
-Instance 199
-Instance 207
-Instance 214
-Instance 218
-Instance 220
-Instance 222
-Instance 224
-Instance 225
-Instance 226
-Instance 227
-Instance 232
-Instance 234
-Instance 236
-Instance 237
-Instance 242
-Instance 244
-Instance 249
-Instance 253
-Instance 254
-Instance 260
-Instance 262
-Instance 266
-Instance 267
-Instance 273
-Instance 280
-Instance 283
-Instance 285
-Instance 286
-Instance 292
-Instance 297
-Instance 299
-Instance 301
-Instance 313
-Instance 318
-Instance 320
-Instance 321
-Instance 322
-Instance 326
-Instance 327
-Instance 330
-Instance 336
-Instance 337
-Instance 341
-Instance 345
-Instance 348
-Instance 349
-Instance 350
-Instance 352
-Instance 356
-Instance 361
-Instance 362
-Instance 363
-Instance 365
-Instance 368
-Instance 371
-Instance 374
-Instance 376
-Instance 379
-Instance 381
-Instance 383
-Instance 384
-Instance 388
-Instance 389
-Instance 392
-Instance 394
-Instance 398
-Instance 399
-Instance 400
-Instance 401
-Instance 402
-Instance 403
-Instance 405
-Instance 406
-Instance 407
-Instance 408
-Instance 410
-Instance 411
-Instance 412
-Instance 414
-Instance 415
-Instance 416
-Instance 417
-Instance 418
-Instance 419
-Instance 420
-Instance 421
-Instance 422
-Instance 423
-Instance 424
-Instance 426
-Instance 428
-Instance 429
-Instance 430
-Instance 431
-Instance 432
-Instance 434
-Instance 435
-Instance 437
-Instance 438
-Instance 439
-Instance 441
-Instance 443
-Instance 444
-Instance 447
-Instance 448
-Instance 449
-Instance 450
-Instance 459
-Instance 461
-Instance 463
-Instance 465
-Instance 467
-Instance 477
-Instance 481
-Instance 482
-Instance 483
-Instance 487
-Instance 489
-Instance 494
-Instance 495
-Instance 497
-Instance 498
-Instance 500
-Instance 501
-Instance 507
-Instance 512
-Instance 518
-Instance 529
-Instance 535
-Instance 542
-Instance 545
-Instance 548
-Instance 550
-Instance 560
-Instance 562
-Instance 566
-Instance 573
-Instance 574
-Instance 600
-Instance 610
-Instance 630
-Instance 633
-Instance 635
-Instance 637
-Instance 658
-Instance 660
-Instance 669
-Instance 679
-Instance 685
-Instance 690
-Instance 693
-Instance 714
-Instance 721
-Instance 730
-Instance 742
-Instance 749
-Instance 752
-Instance 753
-Instance 773
-Instance 779
-Instance 787
-Instance 790
-Instance 796
+Clusters -> 3
+Instances -> 58
+Instances -> 59
+Instances -> 74
+Instances -> 88
+Instances -> 89
+Instances -> 96
+Instances -> 113
+Instances -> 119
+Instances -> 122
+Instances -> 128
+Instances -> 138
+Instances -> 139
+Instances -> 149
+Instances -> 165
+Instances -> 167
+Instances -> 173
+Instances -> 181
+Instances -> 198
+Instances -> 199
+Instances -> 207
+Instances -> 214
+Instances -> 218
+Instances -> 220
+Instances -> 222
+Instances -> 224
+Instances -> 225
+Instances -> 226
+Instances -> 227
+Instances -> 232
+Instances -> 234
+Instances -> 236
+Instances -> 237
+Instances -> 242
+Instances -> 244
+Instances -> 249
+Instances -> 253
+Instances -> 254
+Instances -> 260
+Instances -> 262
+Instances -> 266
+Instances -> 267
+Instances -> 273
+Instances -> 280
+Instances -> 283
+Instances -> 285
+Instances -> 286
+Instances -> 292
+Instances -> 297
+Instances -> 299
+Instances -> 301
+Instances -> 313
+Instances -> 318
+Instances -> 320
+Instances -> 321
+Instances -> 322
+Instances -> 326
+Instances -> 327
+Instances -> 330
+Instances -> 336
+Instances -> 337
+Instances -> 341
+Instances -> 345
+Instances -> 348
+Instances -> 349
+Instances -> 350
+Instances -> 352
+Instances -> 356
+Instances -> 361
+Instances -> 362
+Instances -> 363
+Instances -> 365
+Instances -> 368
+Instances -> 371
+Instances -> 374
+Instances -> 376
+Instances -> 379
+Instances -> 381
+Instances -> 383
+Instances -> 384
+Instances -> 388
+Instances -> 389
+Instances -> 392
+Instances -> 394
+Instances -> 398
+Instances -> 399
+Instances -> 400
+Instances -> 401
+Instances -> 402
+Instances -> 403
+Instances -> 405
+Instances -> 406
+Instances -> 407
+Instances -> 408
+Instances -> 410
+Instances -> 411
+Instances -> 412
+Instances -> 414
+Instances -> 415
+Instances -> 416
+Instances -> 417
+Instances -> 418
+Instances -> 419
+Instances -> 420
+Instances -> 421
+Instances -> 422
+Instances -> 423
+Instances -> 424
+Instances -> 426
+Instances -> 428
+Instances -> 429
+Instances -> 430
+Instances -> 431
+Instances -> 432
+Instances -> 434
+Instances -> 435
+Instances -> 437
+Instances -> 438
+Instances -> 439
+Instances -> 441
+Instances -> 443
+Instances -> 444
+Instances -> 447
+Instances -> 448
+Instances -> 449
+Instances -> 450
+Instances -> 459
+Instances -> 461
+Instances -> 463
+Instances -> 465
+Instances -> 467
+Instances -> 477
+Instances -> 481
+Instances -> 482
+Instances -> 483
+Instances -> 487
+Instances -> 489
+Instances -> 494
+Instances -> 495
+Instances -> 497
+Instances -> 498
+Instances -> 500
+Instances -> 501
+Instances -> 507
+Instances -> 512
+Instances -> 518
+Instances -> 529
+Instances -> 535
+Instances -> 542
+Instances -> 545
+Instances -> 548
+Instances -> 550
+Instances -> 560
+Instances -> 562
+Instances -> 566
+Instances -> 573
+Instances -> 574
+Instances -> 600
+Instances -> 610
+Instances -> 630
+Instances -> 633
+Instances -> 635
+Instances -> 637
+Instances -> 658
+Instances -> 660
+Instances -> 669
+Instances -> 679
+Instances -> 685
+Instances -> 690
+Instances -> 693
+Instances -> 714
+Instances -> 721
+Instances -> 730
+Instances -> 742
+Instances -> 749
+Instances -> 752
+Instances -> 753
+Instances -> 773
+Instances -> 779
+Instances -> 787
+Instances -> 790
+Instances -> 796
 Total = 181
 
-Cluster 4
-Instance 13
-Instance 24
-Instance 31
-Instance 41
-Instance 48
-Instance 52
-Instance 61
-Instance 68
-Instance 84
-Instance 95
-Instance 98
-Instance 99
-Instance 133
-Instance 140
-Instance 141
-Instance 142
-Instance 153
-Instance 164
-Instance 180
-Instance 184
-Instance 188
-Instance 200
-Instance 203
-Instance 209
-Instance 210
-Instance 212
-Instance 231
-Instance 239
-Instance 248
-Instance 251
-Instance 261
-Instance 264
-Instance 265
-Instance 274
-Instance 284
-Instance 287
-Instance 289
-Instance 290
-Instance 291
-Instance 294
-Instance 300
-Instance 302
-Instance 307
-Instance 309
-Instance 315
-Instance 325
-Instance 333
-Instance 343
-Instance 364
-Instance 366
-Instance 436
-Instance 453
-Instance 475
-Instance 480
-Instance 575
-Instance 584
-Instance 609
-Instance 615
-Instance 628
-Instance 629
-Instance 644
-Instance 673
-Instance 682
-Instance 698
-Instance 707
-Instance 711
-Instance 733
-Instance 738
-Instance 739
-Instance 760
+Clusters -> 4
+Instances -> 13
+Instances -> 24
+Instances -> 31
+Instances -> 41
+Instances -> 48
+Instances -> 52
+Instances -> 61
+Instances -> 68
+Instances -> 84
+Instances -> 95
+Instances -> 98
+Instances -> 99
+Instances -> 133
+Instances -> 140
+Instances -> 141
+Instances -> 142
+Instances -> 153
+Instances -> 164
+Instances -> 180
+Instances -> 184
+Instances -> 188
+Instances -> 200
+Instances -> 203
+Instances -> 209
+Instances -> 210
+Instances -> 212
+Instances -> 231
+Instances -> 239
+Instances -> 248
+Instances -> 251
+Instances -> 261
+Instances -> 264
+Instances -> 265
+Instances -> 274
+Instances -> 284
+Instances -> 287
+Instances -> 289
+Instances -> 290
+Instances -> 291
+Instances -> 294
+Instances -> 300
+Instances -> 302
+Instances -> 307
+Instances -> 309
+Instances -> 315
+Instances -> 325
+Instances -> 333
+Instances -> 343
+Instances -> 364
+Instances -> 366
+Instances -> 436
+Instances -> 453
+Instances -> 475
+Instances -> 480
+Instances -> 575
+Instances -> 584
+Instances -> 609
+Instances -> 615
+Instances -> 628
+Instances -> 629
+Instances -> 644
+Instances -> 673
+Instances -> 682
+Instances -> 698
+Instances -> 707
+Instances -> 711
+Instances -> 733
+Instances -> 738
+Instances -> 739
+Instances -> 760
 Total = 70
 
-Cluster 5
-Instance 1
-Instance 32
-Instance 55
-Instance 94
-Instance 134
-Instance 172
-Instance 235
-Instance 243
-Instance 263
-Instance 270
-Instance 332
-Instance 358
-Instance 360
-Instance 370
-Instance 440
-Instance 534
-Instance 549
-Instance 568
-Instance 578
-Instance 598
-Instance 602
-Instance 614
-Instance 625
-Instance 640
-Instance 750
-Instance 754
-Instance 757
-Instance 770
-Instance 774
-Instance 775
+Clusters -> 5
+Instances -> 1
+Instances -> 32
+Instances -> 55
+Instances -> 94
+Instances -> 134
+Instances -> 172
+Instances -> 235
+Instances -> 243
+Instances -> 263
+Instances -> 270
+Instances -> 332
+Instances -> 358
+Instances -> 360
+Instances -> 370
+Instances -> 440
+Instances -> 534
+Instances -> 549
+Instances -> 568
+Instances -> 578
+Instances -> 598
+Instances -> 602
+Instances -> 614
+Instances -> 625
+Instances -> 640
+Instances -> 750
+Instances -> 754
+Instances -> 757
+Instances -> 770
+Instances -> 774
+Instances -> 775
 Total = 30
 
-Cluster 6
-Instance 2
-Instance 11
-Instance 36
-Instance 49
-Instance 63
-Instance 66
-Instance 67
-Instance 73
-Instance 110
-Instance 114
-Instance 127
-Instance 135
-Instance 186
-Instance 206
-Instance 271
-Instance 275
-Instance 314
-Instance 397
-Instance 446
-Instance 452
-Instance 460
-Instance 466
-Instance 492
-Instance 499
-Instance 516
-Instance 521
-Instance 526
-Instance 527
-Instance 532
-Instance 533
-Instance 539
-Instance 540
-Instance 547
-Instance 551
-Instance 564
-Instance 580
-Instance 587
-Instance 594
-Instance 595
-Instance 596
-Instance 603
-Instance 613
-Instance 623
-Instance 627
-Instance 643
-Instance 645
-Instance 656
-Instance 661
-Instance 665
-Instance 666
-Instance 677
-Instance 687
-Instance 718
-Instance 719
-Instance 726
-Instance 728
-Instance 740
-Instance 744
-Instance 755
-Instance 758
-Instance 762
-Instance 767
-Instance 781
-Instance 783
-Instance 788
-Instance 793
+Clusters -> 6
+Instances -> 2
+Instances -> 11
+Instances -> 36
+Instances -> 49
+Instances -> 63
+Instances -> 66
+Instances -> 67
+Instances -> 73
+Instances -> 110
+Instances -> 114
+Instances -> 127
+Instances -> 135
+Instances -> 186
+Instances -> 206
+Instances -> 271
+Instances -> 275
+Instances -> 314
+Instances -> 397
+Instances -> 446
+Instances -> 452
+Instances -> 460
+Instances -> 466
+Instances -> 492
+Instances -> 499
+Instances -> 516
+Instances -> 521
+Instances -> 526
+Instances -> 527
+Instances -> 532
+Instances -> 533
+Instances -> 539
+Instances -> 540
+Instances -> 547
+Instances -> 551
+Instances -> 564
+Instances -> 580
+Instances -> 587
+Instances -> 594
+Instances -> 595
+Instances -> 596
+Instances -> 603
+Instances -> 613
+Instances -> 623
+Instances -> 627
+Instances -> 643
+Instances -> 645
+Instances -> 656
+Instances -> 661
+Instances -> 665
+Instances -> 666
+Instances -> 677
+Instances -> 687
+Instances -> 718
+Instances -> 719
+Instances -> 726
+Instances -> 728
+Instances -> 740
+Instances -> 744
+Instances -> 755
+Instances -> 758
+Instances -> 762
+Instances -> 767
+Instances -> 781
+Instances -> 783
+Instances -> 788
+Instances -> 793
 Total = 66
 
-Cluster 7
-Instance 0
-Instance 27
-Instance 39
-Instance 47
-Instance 85
-Instance 90
-Instance 111
-Instance 112
-Instance 116
-Instance 117
-Instance 118
-Instance 123
-Instance 145
-Instance 147
-Instance 159
-Instance 166
-Instance 168
-Instance 169
-Instance 171
-Instance 177
-Instance 189
-Instance 195
-Instance 201
-Instance 205
-Instance 217
-Instance 223
-Instance 228
-Instance 230
-Instance 241
-Instance 250
-Instance 257
-Instance 259
-Instance 276
-Instance 277
-Instance 324
-Instance 344
-Instance 390
-Instance 391
-Instance 442
-Instance 451
-Instance 454
-Instance 464
-Instance 468
-Instance 472
-Instance 474
-Instance 479
-Instance 496
-Instance 502
-Instance 505
-Instance 506
-Instance 514
-Instance 520
-Instance 524
-Instance 543
-Instance 544
-Instance 557
-Instance 565
-Instance 571
-Instance 591
-Instance 597
-Instance 617
-Instance 620
-Instance 622
-Instance 626
-Instance 649
-Instance 650
-Instance 655
-Instance 657
-Instance 662
-Instance 678
-Instance 683
-Instance 684
-Instance 686
-Instance 691
-Instance 706
-Instance 715
-Instance 735
-Instance 743
-Instance 759
-Instance 780
-Instance 784
-Instance 794
+Clusters -> 7
+Instances -> 0
+Instances -> 27
+Instances -> 39
+Instances -> 47
+Instances -> 85
+Instances -> 90
+Instances -> 111
+Instances -> 112
+Instances -> 116
+Instances -> 117
+Instances -> 118
+Instances -> 123
+Instances -> 145
+Instances -> 147
+Instances -> 159
+Instances -> 166
+Instances -> 168
+Instances -> 169
+Instances -> 171
+Instances -> 177
+Instances -> 189
+Instances -> 195
+Instances -> 201
+Instances -> 205
+Instances -> 217
+Instances -> 223
+Instances -> 228
+Instances -> 230
+Instances -> 241
+Instances -> 250
+Instances -> 257
+Instances -> 259
+Instances -> 276
+Instances -> 277
+Instances -> 324
+Instances -> 344
+Instances -> 390
+Instances -> 391
+Instances -> 442
+Instances -> 451
+Instances -> 454
+Instances -> 464
+Instances -> 468
+Instances -> 472
+Instances -> 474
+Instances -> 479
+Instances -> 496
+Instances -> 502
+Instances -> 505
+Instances -> 506
+Instances -> 514
+Instances -> 520
+Instances -> 524
+Instances -> 543
+Instances -> 544
+Instances -> 557
+Instances -> 565
+Instances -> 571
+Instances -> 591
+Instances -> 597
+Instances -> 617
+Instances -> 620
+Instances -> 622
+Instances -> 626
+Instances -> 649
+Instances -> 650
+Instances -> 655
+Instances -> 657
+Instances -> 662
+Instances -> 678
+Instances -> 683
+Instances -> 684
+Instances -> 686
+Instances -> 691
+Instances -> 706
+Instances -> 715
+Instances -> 735
+Instances -> 743
+Instances -> 759
+Instances -> 780
+Instances -> 784
+Instances -> 794
 Total = 82
 
-Cluster 8
-Instance 45
-Instance 57
-Instance 97
-Instance 107
-Instance 120
-Instance 124
-Instance 132
-Instance 137
-Instance 148
-Instance 151
-Instance 154
-Instance 157
-Instance 170
-Instance 183
-Instance 193
-Instance 246
-Instance 272
-Instance 278
-Instance 282
-Instance 295
-Instance 354
-Instance 359
-Instance 373
-Instance 380
-Instance 386
-Instance 458
-Instance 486
-Instance 491
-Instance 510
-Instance 513
-Instance 515
-Instance 517
-Instance 525
-Instance 528
-Instance 531
-Instance 541
-Instance 552
-Instance 558
-Instance 567
-Instance 569
-Instance 570
-Instance 572
-Instance 576
-Instance 582
-Instance 583
-Instance 586
-Instance 590
-Instance 599
-Instance 604
-Instance 605
-Instance 606
-Instance 607
-Instance 608
-Instance 611
-Instance 616
-Instance 619
-Instance 624
-Instance 632
-Instance 634
-Instance 636
-Instance 639
-Instance 641
-Instance 642
-Instance 647
-Instance 663
-Instance 664
-Instance 668
-Instance 674
-Instance 676
-Instance 681
-Instance 692
-Instance 697
-Instance 700
-Instance 702
-Instance 708
-Instance 709
-Instance 713
-Instance 722
-Instance 724
-Instance 725
-Instance 727
-Instance 731
-Instance 741
-Instance 747
-Instance 751
-Instance 765
-Instance 768
-Instance 785
+Clusters -> 8
+Instances -> 45
+Instances -> 57
+Instances -> 97
+Instances -> 107
+Instances -> 120
+Instances -> 124
+Instances -> 132
+Instances -> 137
+Instances -> 148
+Instances -> 151
+Instances -> 154
+Instances -> 157
+Instances -> 170
+Instances -> 183
+Instances -> 193
+Instances -> 246
+Instances -> 272
+Instances -> 278
+Instances -> 282
+Instances -> 295
+Instances -> 354
+Instances -> 359
+Instances -> 373
+Instances -> 380
+Instances -> 386
+Instances -> 458
+Instances -> 486
+Instances -> 491
+Instances -> 510
+Instances -> 513
+Instances -> 515
+Instances -> 517
+Instances -> 525
+Instances -> 528
+Instances -> 531
+Instances -> 541
+Instances -> 552
+Instances -> 558
+Instances -> 567
+Instances -> 569
+Instances -> 570
+Instances -> 572
+Instances -> 576
+Instances -> 582
+Instances -> 583
+Instances -> 586
+Instances -> 590
+Instances -> 599
+Instances -> 604
+Instances -> 605
+Instances -> 606
+Instances -> 607
+Instances -> 608
+Instances -> 611
+Instances -> 616
+Instances -> 619
+Instances -> 624
+Instances -> 632
+Instances -> 634
+Instances -> 636
+Instances -> 639
+Instances -> 641
+Instances -> 642
+Instances -> 647
+Instances -> 663
+Instances -> 664
+Instances -> 668
+Instances -> 674
+Instances -> 676
+Instances -> 681
+Instances -> 692
+Instances -> 697
+Instances -> 700
+Instances -> 702
+Instances -> 708
+Instances -> 709
+Instances -> 713
+Instances -> 722
+Instances -> 724
+Instances -> 725
+Instances -> 727
+Instances -> 731
+Instances -> 741
+Instances -> 747
+Instances -> 751
+Instances -> 765
+Instances -> 768
+Instances -> 785
 Total = 88
 
-Cluster 9
-Instance 6
-Instance 7
-Instance 16
-Instance 17
-Instance 18
-Instance 20
-Instance 21
-Instance 26
-Instance 30
-Instance 54
-Instance 64
-Instance 69
-Instance 80
-Instance 91
-Instance 93
-Instance 101
-Instance 103
-Instance 105
-Instance 106
-Instance 121
-Instance 131
-Instance 143
-Instance 146
-Instance 161
-Instance 162
-Instance 174
-Instance 175
-Instance 178
-Instance 179
-Instance 182
-Instance 185
-Instance 190
-Instance 194
-Instance 196
-Instance 211
-Instance 213
-Instance 216
-Instance 238
-Instance 245
-Instance 247
-Instance 255
-Instance 347
-Instance 396
-Instance 469
-Instance 503
-Instance 530
-Instance 601
-Instance 671
-Instance 688
-Instance 710
-Instance 720
-Instance 763
-Instance 772
+Clusters -> 9
+Instances -> 6
+Instances -> 7
+Instances -> 16
+Instances -> 17
+Instances -> 18
+Instances -> 20
+Instances -> 21
+Instances -> 26
+Instances -> 30
+Instances -> 54
+Instances -> 64
+Instances -> 69
+Instances -> 80
+Instances -> 91
+Instances -> 93
+Instances -> 101
+Instances -> 103
+Instances -> 105
+Instances -> 106
+Instances -> 121
+Instances -> 131
+Instances -> 143
+Instances -> 146
+Instances -> 161
+Instances -> 162
+Instances -> 174
+Instances -> 175
+Instances -> 178
+Instances -> 179
+Instances -> 182
+Instances -> 185
+Instances -> 190
+Instances -> 194
+Instances -> 196
+Instances -> 211
+Instances -> 213
+Instances -> 216
+Instances -> 238
+Instances -> 245
+Instances -> 247
+Instances -> 255
+Instances -> 347
+Instances -> 396
+Instances -> 469
+Instances -> 503
+Instances -> 530
+Instances -> 601
+Instances -> 671
+Instances -> 688
+Instances -> 710
+Instances -> 720
+Instances -> 763
+Instances -> 772
 Total = 53
 

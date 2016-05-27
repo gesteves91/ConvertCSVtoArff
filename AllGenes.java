@@ -16,7 +16,7 @@ public class AllGenes {
 					new FileOutputStream("dataset.arff"), "utf-8"));
 			w.write("@Relation probe_gene_expression");
 			w.write(System.getProperty("line.separator"));
-			Scanner scanner = new Scanner(new File("/Users/gesteves/Documents/workspace/Weka/src/dataset_input.csv"));
+			Scanner scanner = new Scanner(new File("src/dataset_input.csv"));
 			scanner.useDelimiter(",");
 
 			String x=scanner.nextLine();
@@ -38,7 +38,7 @@ public class AllGenes {
 				w.write(System.getProperty("line.separator"));
 			}
 			scanner.close();
-			System.out.println("The arff file was created successfully I guess!");
+			System.out.println("The arff file was created successfully!");
 		} catch (IOException ex) {
 			// report
 		} finally {

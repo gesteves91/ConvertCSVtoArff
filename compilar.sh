@@ -1,3 +1,3 @@
 #!/bin/bash
-javac -cp weka.jar Cluster.java
+javac -cp weka.jar *.java
 #javac Cluster.java
