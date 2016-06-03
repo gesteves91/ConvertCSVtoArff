@@ -68,7 +68,8 @@ public class Cluster {
 
 			BufferedReader datafile = readDataFile("dataset.arff"); 
 			Instances data = new Instances(datafile);
-
+			
+			kmeans.setMaxIterations(500);
 			kmeans.buildClusterer(data);
 
 			// This array returns the cluster number (starting with 0) for each instance
@@ -91,7 +92,7 @@ public class Cluster {
 			int total = 0;
 
 			for(int i = 0; i < maxClusters.length; i++){
-				w.write("Clusters -> " + i);
+				w.write("Clusters " + i);
 				w.write(System.getProperty("line.separator"));
 				for(int j = 0; j < clusters.length; j++){
 					if(clusters[j] == i){

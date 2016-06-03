@@ -1,4 +1,4 @@
-Clusters -> 0
+Clusters 0
 Instances -> 62
 Instances -> 65
 Instances -> 78
@@ -41,7 +41,7 @@ Instances -> 797
 Instances -> 798
 Total = 40
 
-Clusters -> 1
+Clusters 1
 Instances -> 53
 Instances -> 79
 Instances -> 102
@@ -122,7 +122,7 @@ Instances -> 789
 Instances -> 791
 Total = 78
 
-Clusters -> 2
+Clusters 2
 Instances -> 3
 Instances -> 4
 Instances -> 5
@@ -236,7 +236,7 @@ Instances -> 778
 Instances -> 792
 Total = 111
 
-Clusters -> 3
+Clusters 3
 Instances -> 58
 Instances -> 59
 Instances -> 74
@@ -420,7 +420,7 @@ Instances -> 790
 Instances -> 796
 Total = 181
 
-Clusters -> 4
+Clusters 4
 Instances -> 13
 Instances -> 24
 Instances -> 31
@@ -493,7 +493,7 @@ Instances -> 739
 Instances -> 760
 Total = 70
 
-Clusters -> 5
+Clusters 5
 Instances -> 1
 Instances -> 32
 Instances -> 55
@@ -526,7 +526,7 @@ Instances -> 774
 Instances -> 775
 Total = 30
 
-Clusters -> 6
+Clusters 6
 Instances -> 2
 Instances -> 11
 Instances -> 36
@@ -595,7 +595,7 @@ Instances -> 788
 Instances -> 793
 Total = 66
 
-Clusters -> 7
+Clusters 7
 Instances -> 0
 Instances -> 27
 Instances -> 39
@@ -680,7 +680,7 @@ Instances -> 784
 Instances -> 794
 Total = 82
 
-Clusters -> 8
+Clusters 8
 Instances -> 45
 Instances -> 57
 Instances -> 97
@@ -771,7 +771,7 @@ Instances -> 768
 Instances -> 785
 Total = 88
 
-Clusters -> 9
+Clusters 9
 Instances -> 6
 Instances -> 7
 Instances -> 16

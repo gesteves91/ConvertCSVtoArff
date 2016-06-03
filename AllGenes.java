@@ -16,12 +16,12 @@ public class AllGenes {
 					new FileOutputStream("dataset.arff"), "utf-8"));
 			w.write("@Relation probe_gene_expression");
 			w.write(System.getProperty("line.separator"));
-			Scanner scanner = new Scanner(new File("src/dataset_input.csv"));
+			Scanner scanner = new Scanner(new File("src/all_genes_expressive.csv"));
 			scanner.useDelimiter(",");
 
 			String x=scanner.nextLine();
 			String[] arr=x.split(",");
-			for(int i = 0; i < 10; i++){
+			for(int i = 0; i < 9; i++){
 				w.write("@Attribute " + arr[i] + " NUMERIC");
 				w.write(System.getProperty("line.separator"));
 			}
@@ -33,7 +33,7 @@ public class AllGenes {
 			while(scanner.hasNext()){
 				x=scanner.nextLine();
 				String[] arr2=x.split(",");
-				for(int i = 0; i < 10; i++)
+				for(int i = 0; i < 9; i++)
 					w.write(arr2[i] + ", ");
 				w.write(System.getProperty("line.separator"));
 			}
