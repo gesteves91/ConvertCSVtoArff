@@ -57,7 +57,7 @@ public class Cluster {
 			file.createNewFile();
 			graph = new BufferedWriter(new FileWriter(file));
 			w = new BufferedWriter(new OutputStreamWriter(
-					new FileOutputStream("clusters"), "utf-8"));
+					new FileOutputStream("src/clusters"), "utf-8"));
 			SimpleKMeans kmeans = new SimpleKMeans();
 
 			kmeans.setSeed(10);
